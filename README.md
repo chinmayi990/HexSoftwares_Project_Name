@@ -59,5 +59,7 @@ plt.show()
 
 [Proj 1.ipynb](https://github.com/user-attachments/files/22196813/Proj.1.ipynb)
 [hexa Project1 report .pdf](https://github.com/user-attachments/files/22196815/hexa.Project1.report.pdf)
+[hexa Report of Project 2 and Project 3.pdf](https://github.com/user-attachments/files/22196862/hexa.Report.of.Project.2.and.Project.3.pdf)
+[Proj 2&3.ipynb](https://github.com/user-attachments/files/22196861/Proj.2.3.ipynb)
 
 
